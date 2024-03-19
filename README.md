@@ -1,7 +1,7 @@
-repository-name
-# Repository Name
+thunderblade
+# Thunderblade
 
-Based on "ABC" at https://www.abc.com/
+Based on "Review: OWC ThunderBlade - the fastest external SSD setup I've tested!" at https://www.youtube.com/watch?v=gLGd9_0rX2A
 
 ## 100 - Introduction
 
